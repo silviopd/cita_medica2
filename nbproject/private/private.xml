@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/comercial/vista/index.php</file>
+            <file>file:/C:/xampp/htdocs/comercial/datos/configuracion.php</file>
+            <file>file:/C:/xampp/htdocs/comercial/controlador/articulo.listar.controlador.php</file>
+            <file>file:/C:/xampp/htdocs/comercial/vista/articulo.vista.php</file>
+            <file>file:/C:/xampp/htdocs/comercial/index.php</file>
+            <file>file:/C:/xampp/htdocs/comercial/util/funciones/definiciones.php</file>
+            <file>file:/C:/xampp/htdocs/comercial/datos/Conexion.clase.php</file>
+        </group>
+        <group name="progra2">
+            <file>file:/C:/xampp/htdocs/comercial/controlador/linea.listar.controlador.php</file>
+            <file>file:/C:/xampp/htdocs/comercial/controlador/articulo.listar.controlador.php</file>
+            <file>file:/C:/xampp/htdocs/comercial/vista/articulo.vista.php</file>
+            <file>file:/C:/xampp/htdocs/comercial/vista/js/articulo.js</file>
+            <file>file:/C:/xampp/htdocs/comercial/vista/js/linea.js</file>
+            <file>file:/C:/xampp/htdocs/comercial/vista/linea.vista.php</file>
+            <file>file:/C:/xampp/htdocs/comercial/vista/cabecera.vista.php</file>
+        </group>
+        <group name="Programacion II"/>
+    </open-files>
+</project-private>
